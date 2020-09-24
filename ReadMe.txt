@@ -1,0 +1,5 @@
+This is a Form Fader OCX control. Simply stick it on a form, set a few properties, and with two lines of code it will fade-in and fade-out the form smoothly. Also lets you fade the form by setting a fading (opacity) factor between 25% and 100%; the low limit of 25% is necessary so that you can still see the transparent form. Values below 25% or above 100% will generate error 380 - Invalid Property Value. The fading speed can be adjusted in four steps, from Slow to Very Fast.
+
+The Control cannot be Enabled unless it's running under WinXP. I don't know whether the Control will run under 95/98/2k/NT - you will have to uncomment the last line in Fader (where it says so) and try.
+
+Semi-transparent forms can be moved across the background with a realistic transparent effect. The Fader can be compiled separately, of course. This OCX Control is based on code by Ed Preston (and he deserves the votes).
